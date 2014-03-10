@@ -9,4 +9,4 @@ Script tag in index.html handles browsers that don't auto display all three trac
 
 * Node server: server.js
 * npm install express
-* node server.js
+* node server.js - starts websever
