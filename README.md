@@ -8,5 +8,5 @@ Script tag in index.html handles browsers that don't auto display all three trac
 # Web Server
 
 * Node server: server.js
-** npm install express
-** node server.js
+* npm install express
+* node server.js
